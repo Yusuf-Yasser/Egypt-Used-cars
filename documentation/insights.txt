@@ -1,0 +1,25 @@
+We already know from yesterday's post that the top 3 most common car brands in the Egyptian used car market are Mercedes, BMW, and Hyundai.
+
+we also know from yesterday's post that Mercedes and BMW have the highest average price among the top 10 brands.
+Toyota, Peugeot, and Kia have relatively lower average prices compared to Mercedes and BMW.
+
+from today's visualisation we can clearly see that the most common car model is Mercedes C180, followed by Toyota Corolla and Nissan Sunny.
+These models seem to be popular choices among buyers in the Egyptian used car market.
+
+since we know that Mercedes and BMW are luxury brands, they have higher average prices compared to other brands.
+Toyota, Kia, and Hyundai have relatively lower average prices, which may indicate a higher affordability and accessibility for consumers.
+
+While Mercedes and BMW are popular overall brands, the most common models include Toyota Corolla, Nissan Sunny, and Kia models.
+This suggests that while certain brands dominate the market, specific models from other brands are also highly sought after.
+
+The relatively high count of Mercedes and BMW cars alongside their higher average prices may indicate a demand for luxury and high-end vehicles in the Egyptian market.
+The presence of more affordable options such as Toyota, Kia, and Hyundai suggests a diverse consumer base with varying budget considerations.
+
+The consistent presence of certain brands like Mercedes, and Toyota in both the top brands and top models lists indicates strong brand loyalty or trust among consumers.
+Buyers may prefer certain brands due to factors like perceived reliability, resale value, or brand prestige.
+
+the absence of BMW models in the most popular car models list despite its high brand presence suggests that brand popularity does not always directly translate to model popularity in the used car market. Various factors such as consumer preferences, market segmentation, and brand perception can influence the distribution of model preferences within a brand's lineup.
+
+also we can notice a surprising absense of chinese brands! the absence of Chinese brands in both the top brands and top models lists suggests that Chinese automakers face challenges in gaining traction and market share in the Egyptian used car market. Overcoming these challenges may require efforts to improve brand perception, enhance product quality, and align product offerings with consumer preferences.
+
+Overall, these insights provide a comprehensive understanding of the dynamics within the Egyptian used car market, including brand popularity, average pricing, and model preferences.

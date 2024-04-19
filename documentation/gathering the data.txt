@@ -1,0 +1,17 @@
+Let me walk you through how I collected the data for my project. There are two main sources: primary and secondary. When we talk about primary data, we're referring to information that's collected firsthand, specifically for a particular research project. In the context of my study on used cars in Egypt, primary data would involve data that I gather directly from sources like car sellers, dealerships, or online platforms.
+
+On the flip side, secondary data refers to information that already exists and has been collected by someone else for a different purpose. This could include things like reports, articles, or datasets that are publicly available.
+
+In my case, I found that there wasn't much existing secondary data available online for the specific niche of used cars in Egypt and most of them were outdated. So, I couldn't rely on pre-existing datasets or reports to gather the information I needed. That's why I turned to the primary source—collecting the data myself.
+
+By doing this, I could ensure that the data I gathered was tailored to my specific research questions and needs. While primary data collection can be more time-consuming and resource-intensive, it often provides more accurate and relevant information for a particular study. 
+
+The big question was, where do you find info on used cars? I first thought of checking out Facebook Marketplace, a popular spot. But there was a hitch. Most sellers didn't actually put the price in their posts. Instead, they'd write something like "1 EGP" or "9999999999 EGP." To know the real price, you had to message them directly. It was frustrating because if the data going in isn't good, what you get out won't be either.
+
+So, I went searching for another option and stumbled upon contactcars.com. Here, the listings were much better organized. They included details like the car's brand, model, mileage, and where it was located.
+
+But here's the thing: collecting all this info by hand would take forever. That's where web scraping came in. Using web scraping techniques. Leveraging libraries such as Requests, BeautifulSoup, and Selenium, I managed to scrape all 109 pages of car listings from the website in just 34 minutes!
+
+In the end, I gathered a whopping 5,447 car listings, which I saved into a database. So then, I can dive into cleaning up and analyzing the data further.
+
+#DataCollection #WebScraping #UsedCars #Egypt #Automotive #DataAnalysis #Insights #EgyptianMarket 
